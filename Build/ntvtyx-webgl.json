@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Xhurch 2018",
+"productVersion": "1.0",
+"dataUrl": "ntvtyx-webgl.data.unityweb",
+"asmCodeUrl": "ntvtyx-webgl.asm.code.unityweb",
+"asmMemoryUrl": "ntvtyx-webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "ntvtyx-webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
